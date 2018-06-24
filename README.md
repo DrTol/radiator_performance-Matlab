@@ -17,7 +17,7 @@ The main idea here is to develop simple and reliable emprical models for residen
 - In order to avoid deviations at low flow conditions, Schlapmann factors are included in the AMTD method.
 
 ## How2Use
-An example script is given: [ExampleRadiatorReturnTemperature.m](https://github.com/DrTol/radiator_performance-Matlab/blob/master/ExampleRadiatorReturnTemperature.m), which illustrates how to use the Matlab functions [Tr_LMTD.m](https://github.com/DrTol/radiator_performance-Matlab/blob/master/Tr_LMTD.m),[Tr_GMTD.m](https://github.com/DrTol/radiator_performance-Matlab/blob/master/Tr_GMTD.m),[Tr_AMTD.m](https://github.com/DrTol/radiator_performance-Matlab/blob/master/Tr_AMTD.m),and [Tr_AMTD_Schlapmann.m](https://github.com/DrTol/radiator_performance-Matlab/blob/master/Tr_AMTD_Schlapmann.m)
+An example script is given: [ExampleRadiatorReturnTemperature.m](https://github.com/DrTol/radiator_performance-Matlab/blob/master/ExampleRadiatorReturnTemperature.m), which illustrates how to use the Matlab functions developed [Tr_LMTD.m](https://github.com/DrTol/radiator_performance-Matlab/blob/master/Tr_LMTD.m), [Tr_GMTD.m](https://github.com/DrTol/radiator_performance-Matlab/blob/master/Tr_GMTD.m), [Tr_AMTD.m](https://github.com/DrTol/radiator_performance-Matlab/blob/master/Tr_AMTD.m),and [Tr_AMTD_Schlapmann.m](https://github.com/DrTol/radiator_performance-Matlab/blob/master/Tr_AMTD_Schlapmann.m)
 Please clone or download the whole repository and run this example script. 
 
 ## License
